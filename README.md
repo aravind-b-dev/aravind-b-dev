@@ -40,19 +40,19 @@
 <summary>More Skills</summary>
 <br>
 
-![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html-CSS&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Style-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Style-BootStrap-informational?style=flat&logo=bootstrap&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html-CSS&logoColor=white&color=7a57d1)
+![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=7a57d1)
+![](https://img.shields.io/badge/Style-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=7a57d1)
+![](https://img.shields.io/badge/Style-BootStrap-informational?style=flat&logo=bootstrap&logoColor=white&color=7a57d1)
 
 <br>
 
-![](https://img.shields.io/badge/IDE-VisualStudio-informational?style=flat&logo=visualstudio&logoColor=white&color=49beb7)
-![](https://img.shields.io/badge/IDE-AndroidStudio-informational?style=flat&logo=AndroidStudio&logoColor=white&color=49beb7)
-![](https://img.shields.io/badge/IDE-XCode-informational?style=flat&logo=XCode&logoColor=white&color=49beb7)
-![](https://img.shields.io/badge/IDE-Sublime-informational?style=flat&logo=sublime-text&logoColor=white&color=49beb7)
-![](https://img.shields.io/badge/IDE-PyCharm-informational?style=flat&logo=PyCharm&logoColor=white&color=49beb7)
-![](https://img.shields.io/badge/IDE-PhpStorm-informational?style=flat&logo=PhpStorm&logoColor=white&color=49beb7)
+![](https://img.shields.io/badge/IDE-VisualStudio-informational?style=flat&logo=visualstudio&logoColor=white&color=fd0054)
+![](https://img.shields.io/badge/IDE-AndroidStudio-informational?style=flat&logo=AndroidStudio&logoColor=white&color=fd0054)
+![](https://img.shields.io/badge/IDE-XCode-informational?style=flat&logo=XCode&logoColor=white&color=fd0054)
+![](https://img.shields.io/badge/IDE-Sublime-informational?style=flat&logo=sublime-text&logoColor=white&color=fd0054)
+![](https://img.shields.io/badge/IDE-PyCharm-informational?style=flat&logo=PyCharm&logoColor=white&color=fd0054)
+![](https://img.shields.io/badge/IDE-PhpStorm-informational?style=flat&logo=PhpStorm&logoColor=white&color=fd0054)
 
 <br>
 
