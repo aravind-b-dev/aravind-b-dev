@@ -1,4 +1,5 @@
-### Hi there, I'm <a href="https://github.com/aravind-b-dev" target="_blank">Aravind B</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi there, I'm <a href="https://github.com/aravind-b-dev" target="_blank">Aravind B</a> 
+<!-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="15px"> -->
 
 
 ![](https://komarev.com/ghpvc/?username=aravind-b-dev)  
@@ -12,7 +13,7 @@
 
 
 
-<p align="center" style="position:relative"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aravind-b-dev&theme=onedark&row=1" alt="aravind-b-dev" /></a> </p>
+<!-- <p align="center" style="position:relative"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aravind-b-dev&theme=onedark&row=1" alt="aravind-b-dev" /></a> </p> -->
 
 
 ## 💼 Skills
