@@ -1,5 +1,4 @@
-### Hi there, I'm <a href="https://github.com/aravind-b-dev" target="_blank">Aravind B</a> 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="15px">
+### Hi there, I'm <a href="https://github.com/aravind-b-dev" target="_blank">Aravind B</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="15px">
 
 
 ![](https://komarev.com/ghpvc/?username=aravind-b-dev)  
