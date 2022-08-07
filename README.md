@@ -1,7 +1,22 @@
-### Hi there, I'm <a href="https://github.com/aravind-b-dev" target="_blank">Aravind B</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="15px">
+
+Hi 👋 Im Aravind B
+=============================
+
+Flutter & Wordpress Developer
+----------------------------------
+
+I'm a Flutter developer, working at Pebery Technologies and knowledge in Flutter, Wordpress, SEO, Laravel, Python-Django.
+
+* 🌍  I'm based in Kerala
+* ✉️  You can contact me at [baravind460@gmail.com](mailto:baravind460@gmail.com)
+* 🧠  I'm learning
 
 
 ![](https://komarev.com/ghpvc/?username=aravind-b-dev)  
+
+### Socials
+
+<a href="https://github.com/aravind-b-dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> &nbsp; <a href="https://www.instagram.com/_aravind_b._/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> &nbsp; <a href="https://www.linkedin.com/in/aravind-b-3863611b6/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> &nbsp; <a href="https://stackoverflow.com/users/15074376/aravind-b" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> </p>
 
 📈 **My GitHub Stats:**
 
@@ -11,6 +26,9 @@
 </p>
 
 
+<a href="https://github.com/aravind-b-dev"><img src="https://activity-graph.herokuapp.com/graph?username=aravind-b-dev&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<a href="https://github.com/aravind-b-dev"><img src="https://github-readme-streak-stats.herokuapp.com/?user=aravind-b-dev&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <!-- <p align="center" style="position:relative"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aravind-b-dev&theme=onedark&row=1" alt="aravind-b-dev" /></a> </p> -->
 
