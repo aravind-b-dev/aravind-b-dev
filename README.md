@@ -11,7 +11,6 @@ I'm a Flutter developer, working at Pebery Technologies and knowledge in Flutter
 * ✉️  You can contact me at [baravind460@gmail.com](mailto:baravind460@gmail.com)
 * 🧠  I'm learning
 
-
 ![](https://komarev.com/ghpvc/?username=aravind-b-dev)  
 
 ### Socials
