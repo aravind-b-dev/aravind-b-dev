@@ -2,7 +2,7 @@
 Hi 👋 Im Aravind B
 =============================
 
-Flutter & Wordpress Developer
+Flutter Developer
 ----------------------------------
 
 I'm a Flutter developer, working at Pebery Technologies and knowledge in Flutter, Wordpress, SEO, Laravel, Python-Django.
