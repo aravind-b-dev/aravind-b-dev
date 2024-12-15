@@ -5,7 +5,7 @@ Hi 👋 Im Aravind B
 Flutter Developer
 ----------------------------------
 
-I'm a Flutter developer, working at Pebery Technologies and knowledge in Flutter, Wordpress, SEO, Laravel, Python-Django.
+I'm a Flutter developer, working at Skyislimit Technologies and knowledge in Flutter, Wordpress, SEO, Laravel, Python-Django.
 
 * 🌍  I'm based in Kerala
 * ✉️  You can contact me at [baravind460@gmail.com](mailto:baravind460@gmail.com)
