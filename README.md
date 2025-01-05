@@ -28,13 +28,8 @@ I'm a Flutter developer, working at Skyislimit Technologies and knowledge in Flu
 
 
 
-<a href="https://github.com/aravind-b-dev"><img src="https://activity-graph.herokuapp.com/graph?username=aravind-b-dev&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/aravind-b-dev"><img src="https://github-readme-streak-stats.herokuapp.com/?user=aravind-b-dev&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<!-- <p align="center" style="position:relative"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aravind-b-dev&theme=onedark&row=1" alt="aravind-b-dev" /></a> </p> -->
-
-
+<!--
 ## 💼 Skills
 
 ![](https://img.shields.io/badge/Code-Flutter-informational?style=flat&logo=flutter&logoColor=white&color=4AB197)
@@ -83,7 +78,7 @@ I'm a Flutter developer, working at Skyislimit Technologies and knowledge in Flu
 </details>
 
 <br>
-
+-->
 
 <!--
 **aravind-b-dev/aravind-b-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
